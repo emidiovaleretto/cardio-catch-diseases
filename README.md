@@ -1,5 +1,5 @@
 <h1> Cardiovascular Diseases (CVDs)</h1>
-<img src='https://i.ytimg.com/vi/qJq5hA4pnOk/maxresdefault.jpg' alt="Cardiovascular Diseases" width="500" height="600">
+<img src='https://i.ytimg.com/vi/qJq5hA4pnOk/maxresdefault.jpg' alt="Cardiovascular Diseases">
 <br>
 <h1> | Overview </h1>
 <br>
